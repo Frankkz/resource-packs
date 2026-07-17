@@ -158,7 +158,7 @@ color=0x32414c
 opacity=0
 
 [colosseum.modifiers.selected]
-color=0x73a2ba#4b98bf#597c8e
+color=0x73a2ba
 opacity=0
 
 [colosseum.tab.border]
@@ -559,11 +559,11 @@ color=0x32414c
 opacity=0
 
 [make_all.background]
-color=0x17516b#286b8d#1b4256
+color=0x17516b
 opacity=0
 
 [make_all.quantity]
-color=0x17516b#0e394d#1b4256#73644f
+color=0x17516b
 opacity=0
 
 [minigame_teleports.border.inner]
@@ -777,7 +777,7 @@ color=0x32414c
 opacity=0
 
 [sailing.customize.highlight]
-color=0x86c2ff#59bff1#73d0ff#4b98bf#597c8e#73a2ba
+color=0x86c2ff
 opacity=0
 
 [sailing.customize.popup.border.inner]
@@ -880,7 +880,7 @@ opacity=0
 color=0x32414c
 
 [sailing.tab.stats.header]
-color=0x32414c#090f12
+color=0x32414c
 opacity=0
 
 [sailing.tab.stats.row]
